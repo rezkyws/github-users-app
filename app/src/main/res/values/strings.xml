@@ -2,8 +2,16 @@
 <resources>
     <!-- Other string resources-->
 
+    <string name="quote">When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when… they are FORGOTTEN.</string>
+    <string name="author">- Dr. Hiluluk</string>
+    <string name="show_list_quotes">Show me list of quotes</string>
+
     <string name="detail">Detail</string>
+    <string name="description">Description</string>
     <string name="app_name">Github Users</string>
+    <string name="name">Real Name</string>
+    <string name="username">Username</string>
+    <string name="show_list_users">See API</string>
     <string-array name="username">
         <item>JakeWharton</item>
         <item>amitshekhariitbhu</item>

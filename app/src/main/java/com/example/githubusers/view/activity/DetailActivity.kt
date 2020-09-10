@@ -1,11 +1,11 @@
-package com.example.githubusers
+package com.example.githubusers.view.activity
 
-import android.location.Location
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.LocaleList
 import android.widget.ImageView
 import android.widget.TextView
+import com.example.githubusers.GithubUsers
+import com.example.githubusers.R
 
 class DetailActivity : AppCompatActivity() {
     companion object {
