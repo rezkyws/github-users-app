@@ -1,2 +1,2 @@
 # github-users-app
-this project contain sub-folders that related to android concept
+this is android native application using kotlin that show the user accounts of github which is consumed API github.
